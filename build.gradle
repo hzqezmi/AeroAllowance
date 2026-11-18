@@ -1,2 +1,0 @@
-// Android's build plugin compiles Java, packages resources, and produces the APK.
-plugins { id 'com.android.application' version '9.1.0' apply false }
